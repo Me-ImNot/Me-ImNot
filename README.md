@@ -18,6 +18,14 @@
   <img src="https://file.garden/ade0uRrc7hT3IuzM/flesh%20eater.gif" alt="Centered Image" width="750" height="50">
 </p>
 
+<div align="center">
+  
+  [Strawpage](https://biphenylism.straw.page)
+  [Atabook](https://fameandrichesrehabbitches.atabook.org/)
+  [Discord](https://discordapp.com/users/1520289544333693053)
+  [Tiktok](https://tiktok.com/@ungrateful_twat)
+  
+</div>
 
 <p align="center"> $\color{#E22518}{\textsf{~}}$
 
