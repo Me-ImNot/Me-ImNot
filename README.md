@@ -90,6 +90,17 @@
 
 
 <p align="center"> $\color{#E22518}{\textsf{~}}$
+  
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
 
 <p align="center">
   <img src="https://file.garden/ade0uRrc7hT3IuzM/meow%20meow%20meow%20meow%20meow.gif" alt="Centered Image" width="900">
@@ -102,7 +113,7 @@
 
 <div align="center">
   
-anywaysthnak u [mimi](https://github.com/theamountoftearsiveunshed), i love this stickman ❤️❤️
+anywaysthnak u [mimi](https://github.com/theamountoftearsiveunshed), i love this stickman ❤️❤️ pls dont copyrigh it or else ill cr y
 
 </div>
 
