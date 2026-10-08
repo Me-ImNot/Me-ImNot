@@ -13,7 +13,7 @@
   <img src="https://file.garden/ade0uRrc7hT3IuzM/IMG_0531.jpg" alt="Centered Image" width="100">
 </p>
 
-<sub>thnak u [mimi](https://github.com/theamountoftearsiveunshed), i love this stickman ❤️❤️
+<sub> anywaysthnak u [mimi](https://github.com/theamountoftearsiveunshed), i love this stickman ❤️❤️
 
 holy shit, rhy ark some of mycoiddings not WORKING
 update: nvm, they are 😂😂
