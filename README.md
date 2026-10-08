@@ -92,6 +92,11 @@
 <p align="center"> $\color{#E22518}{\textsf{~}}$
 
 <p align="center">
+  <img src="https://file.garden/ade0uRrc7hT3IuzM/meow%20meow%20meow%20meow%20meow.gif" alt="Centered Image" width="900">
+</p>
+
+
+<p align="center">
   <img src="https://file.garden/ade0uRrc7hT3IuzM/IMG_0531.jpg" alt="Centered Image" width="250">
 </p>
 
@@ -100,6 +105,9 @@
 anywaysthnak u [mimi](https://github.com/theamountoftearsiveunshed), i love this stickman ❤️❤️
 
 </div>
+
+<p align="center">
+  <img src="https://file.garden/ade0uRrc7hT3IuzM/meow%20meow%20meow%20meow%20meow%207.gif" alt="Centered Image" width="900">
 
 holy shit, rhy ark some of mycoiddings not WORKIN
 
