@@ -130,7 +130,7 @@
 
 <div align="center">
   
-anywaysthnak u [mimi](https://github.com/theamountoftearsiveunshed), i love this stickman ❤️❤️ pls dont copyrigh it or else ill cr y
+anywaysthnak u [mimi](https://github.com/theamountoftearsiveunshed), i love this stickman ❤️❤️ pls dont copyrigh me or else ill cr y
 
 </div>
 
