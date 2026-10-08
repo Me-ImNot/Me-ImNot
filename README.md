@@ -101,6 +101,21 @@
 
 <p align="center"> $\color{#E22518}{\textsf{~}}$
 
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
 
 <p align="center">
   <img src="https://file.garden/ade0uRrc7hT3IuzM/meow%20meow%20meow%20meow%20meow.gif" alt="Centered Image" width="900">
@@ -123,3 +138,4 @@ anywaysthnak u [mimi](https://github.com/theamountoftearsiveunshed), i love this
 holy shit, rhy ark some of mycoiddings not WORKIN
 
 update: nvm, they are 😂😂, my browser is just running slow😂
+![Alt Text](https://file.garden/ade0uRrc7hT3IuzM/Screenshot_20260714_223857_YouTube.jpg)
