@@ -1,6 +1,8 @@
-brb i need the lyrics damn it
+brb i need the lyrics damn it ,, anyways, illustrated by me :p
 
-![Alt Text](https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_3955002244695.gif)
+<p align="center">
+  <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_3955002244695.gif" alt="Centered Image" width="900">
+</p>
 
 [![Alt Text](https://file.garden/ade0uRrc7hT3IuzM/Untitled439_20261008100100.png)](https://www.youtube.com/watch?v=jakpo7tj7Qw)
 
@@ -13,3 +15,4 @@ ____
 thnak u [mimi](https://github.com/theamountoftearsiveunshed), i love this stickman ❤️❤️
 
 holy shit, rhy ark some of mycoiddings not WORKING
+update: nvm, they are 😂😂
