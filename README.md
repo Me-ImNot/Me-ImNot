@@ -139,5 +139,5 @@ anywaysthnak u [mimi](https://github.com/theamountoftearsiveunshed), i love this
 
 holy shit, rhy ark some of mycoiddings not WORKIN
 
-update: nvm, they are 😂😂, my browser is just running slow😂
+update: nvm, they are 😂😂, my browser is just running slow😂 and my preview thing doestn work unless i commmit changes
 ![Alt Text](https://file.garden/ade0uRrc7hT3IuzM/Screenshot_20260714_223857_YouTube.jpg)
