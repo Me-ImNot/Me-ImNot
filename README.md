@@ -95,7 +95,11 @@
   <img src="https://file.garden/ade0uRrc7hT3IuzM/IMG_0531.jpg" alt="Centered Image" width="250">
 </p>
 
-<p align="center"><sub> anywaysthnak u [mimi](https://github.com/theamountoftearsiveunshed), i love this stickman ❤️❤️
+<div align="center">
+  
+anywaysthnak u [mimi](https://github.com/theamountoftearsiveunshed), i love this stickman ❤️❤️
+
+</div>
 
 holy shit, rhy ark some of mycoiddings not WORKIN
 
