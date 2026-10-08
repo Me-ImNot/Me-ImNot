@@ -26,11 +26,65 @@
 <p align="center"> $\color{#E22518}{\textsf{~}}$
 
 
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
 <p align="center">
-  <img src="https://file.garden/ade0uRrc7hT3IuzM/IMG_0531.jpg" alt="Centered Image" width="100">
+  <img src="https://file.garden/ade0uRrc7hT3IuzM/IMG_0531.jpg" alt="Centered Image" width="250">
 </p>
 
-<sub> anywaysthnak u [mimi](https://github.com/theamountoftearsiveunshed), i love this stickman ❤️❤️
+<p align="center"><sub> anywaysthnak u [mimi](https://github.com/theamountoftearsiveunshed), i love this stickman ❤️❤️
 
-holy shit, rhy ark some of mycoiddings not WORKING
-update: nvm, they are 😂😂
+holy shit, rhy ark some of mycoiddings not WORKIN
+
+update: nvm, they are 😂😂, my browser is just running slow😂
