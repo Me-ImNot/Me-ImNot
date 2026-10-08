@@ -18,24 +18,7 @@
   <img src="https://file.garden/ade0uRrc7hT3IuzM/flesh%20eater.gif" alt="Centered Image" width="750" height="50">
 </p>
 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
+<p align="center"> .
 
 
 <p align="center">
