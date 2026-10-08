@@ -24,9 +24,9 @@
 
 <div align="center">
   
-  [Strawpage](https://biphenylism.straw.page) ,
-  [Atabook](https://fameandrichesrehabbitches.atabook.org/) ,
-  [Discord](https://discordapp.com/users/1520289544333693053) ,
+  [Strawpage](https://biphenylism.straw.page) $\color{#E22518}{\textsf{,}}$
+  [Atabook](https://fameandrichesrehabbitches.atabook.org/) $\color{#E22518}{\textsf{,}}$
+  [Discord](https://discordapp.com/users/1520289544333693053) $\color{#E22518}{\textsf{,}}$
   [Tiktok](https://tiktok.com/@ungrateful_twat)
   
 </div>
