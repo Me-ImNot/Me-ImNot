@@ -1,4 +1,8 @@
+# help idk wht to add here
 
+<p align="center">
+  <img src="https://file.garden/ade0uRrc7hT3IuzM/Clodia.webp" alt="Centered Image" width="900">
+</p>
 
 <p align="center">
   <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_3955002244695.gif" alt="Centered Image" width="900">
