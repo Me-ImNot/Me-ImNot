@@ -1,7 +1,13 @@
-# help idk wht to add here
+# help idk wht to add here i
 
 <p align="center">
-  <img src="https://file.garden/ade0uRrc7hT3IuzM/Clodia.webp" alt="Centered Image" width="900">
+  <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_3955002244695.gif" alt="Centered Image" width="900">
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JnJamKVoitU">
+    <img src="https://file.garden/ade0uRrc7hT3IuzM/Clodia.webp" width="800" alt="Alt text">
+  </a>
 </p>
 
 <p align="center">
